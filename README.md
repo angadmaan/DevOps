@@ -1,262 +1,88 @@
-# 🛡️ Becoming a DevOps Engineer
+# 🛡️ DevOps & Cloud Security 
 
-> *Every expert was once a beginner. This repository is my proof of that.*
-
----
-
-## 👋 Hi, I'm Angad Singh Maan
-
-I'm a Computer Science student from India.
-
-This repository is not a collection of random notes.
-
-It's my complete journey towards becoming a **DevOps Engineer**.
-
-When I started engineering, I honestly had no clear direction.
-
-Like many students, I joined college without knowing what I actually wanted to become.
-
-For a long time, I studied only to pass exams.
-
-My CGPA wasn't something I was proud of.
-
-I made mistakes.
-
-I wasted time.
-
-I followed trends instead of building skills.
-
-But eventually I realized something.
-
-No one was going to build my career except me.
-
-That realization changed everything.
+> *Every expert was once a beginner. This is my proof.*
 
 ---
 
-# Why this repository exists
+## 👤 About Me
 
-Instead of learning privately and forgetting everything after watching tutorials...
+I'm **Angad Singh Maan**, a CSE student on a mission to become a **Cloud Security & DevOps Engineer**.
 
-I decided to learn in public.
+This repository isn't a collection of tutorial notes. It's a living record of my journey from average grades and unclear direction to building real infrastructure projects that solve problems.
 
-Every note.
+### The Realization
 
-Every lab.
+I started engineering like most students—studying to pass exams, following what seemed popular, and feeling lost. Eventually I realized:
 
-Every mistake.
+**No course, mentor, or shortcut could build my career for me. Only showing up every day and building real things could.**
 
-Every project.
-
-Every certification.
-
-Every roadmap.
-
-Everything I learn goes here.
-
-This repository is not made to impress people.
-
-It's made to keep myself accountable.
-
-If someone visits this repository after a few years, I want them to see how someone with average grades and zero professional experience became a DevSecOps Engineer simply by showing up every single day.
+This repository is proof of that decision.
 
 ---
 
-# 🎯 My Goal
+## 🎯 My Goal
 
-Become a professional **Cloud Security / DevOps Engineer** by mastering:
+Become a DevSecOps engineer who can:
+- Design and automate cloud infrastructure
+- Secure infrastructure from the ground up
+- Implement CI/CD and IaC at scale
+- Monitor, log, and respond to incidents
 
-- Linux
-- Networking
-- Python
-- Bash
-- Git & GitHub
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- CI/CD
-- Infrastructure as Code
-- Secure Software Development
-- Container Security
-- Cloud Security
-- DevSecOps
-- Security Automation
-- Incident Response
+**Current focus:** AWS, Docker, Kubernetes, Terraform, Python, Linux, DevOps, Cloud Security
 
 ---
 
-# 📚 What you'll find here
+## 📚 What's Here
 
-## 📝 Notes
+### 📝 **Notes**
+Comprehensive documentation—Linux, AWS, Docker, Kubernetes, Terraform, CI/CD, Cloud Security, IAM, Networking, Bash, Python.
 
-Detailed notes written in simple language.
+### 🧪 **Hands-on Labs**
+Not just completed, but documented with setup, commands, challenges faced, solutions, and lessons learned.
 
-- Linux
-- Networking
-- Git
-- Python
-- Bash
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- DevOps
-- Cloud Security
-- IAM
-- SIEM
-- Incident Response
-- Compliance
+### 💻 **Projects**
+Real-world DevOps projects: infrastructure automation, cloud deployment, monitoring, security scanning, incident response.
+
+### 📜 **Certifications**
+Notes, labs, and prep resources for every certification pursued.
 
 ---
 
-## 🧪 Labs
+## 🚀 Learning Philosophy
 
-Hands-on practice is the best teacher.
+> **Learn → Practice → Build → Break → Fix → Document → Repeat**
 
-Every lab I complete will be documented here.
-
-Including:
-
-- Setup
-- Commands
-- Screenshots
-- Problems faced
-- Solutions
-- Lessons learned
+Watching tutorials doesn't make you better. Building does. Breaking things does. Fixing them does.
 
 ---
 
-## 💻 Projects
+## 📈 Repository Goals
 
-Real projects are where learning becomes experience.
-
-Projects will range from beginner level to production-style DevSecOps implementations.
-
-Examples include:
-
-- Secure CI/CD Pipelines
-- Docker Security
-- Kubernetes Security
-- AWS Infrastructure
-- Infrastructure as Code
-- Security Automation
-- Vulnerability Management
-- Monitoring & Logging
-- Cloud Security Projects
+- 📖 Complete record of my learning journey
+- 💻 Portfolio of production-inspired projects
+- 📝 Revision notes and references
+- 🚀 Proof of continuous improvement
+- 🤝 Resource for others starting this path
 
 ---
 
-## 📜 Certifications
+## ⭐ One Promise
 
-I'll document every certification I complete.
+I don't know exactly where this leads. There will be difficult concepts, failed deployments, and plenty of mistakes.
 
-Not just the certificate...
+But as long as I'm chasing this goal, this repository will keep growing.
 
-but also the notes and labs I created while preparing.
-
----
-
-## 📅 Learning Progress
-
-This repository follows a structured roadmap.
-
-Every week has goals.
-
-Every phase has projects.
-
-Every milestone builds on the previous one.
-
-Instead of rushing through courses, I'm focusing on consistency.
-
----
-
-# 💡 My Learning Philosophy
-
-I don't want to become someone who watches hundreds of tutorials.
-
-I want to become someone who can build.
-
-So I follow a simple rule:
-
-> Learn → Practice → Break Things → Fix Them → Document Everything → Repeat.
-
----
-
-# 🚀 Current Focus
-
-- DevOps
-- Cloud Security
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- Linux
-- Python
-- Bash
-- GitHub
-- CI/CD
-- Security Automation
-
----
-
-# 📈 Repository Goals
-
-- Document my complete learning journey
-- Build real-world projects
-- Maintain consistency
-- Improve every week
-- Create a strong portfolio
-- Help beginners learn from my experience
-
----
-
-# 🤝 Contributions
-
-This repository mainly documents my personal learning journey.
-
-However, if you notice mistakes or have suggestions, feel free to open an Issue or Pull Request.
-
-I'm always happy to learn.
-
----
-
-# ⭐ One Promise
-
-I'm not promising that I'll never fail.
-
-I'm not promising that every project will be perfect.
-
-I'm not promising that I'll never take a break.
-
-But I can promise one thing.
-
-As long as I'm chasing my goal, this repository will continue to grow.
-
-One note.
-
-One lab.
-
-One project.
-
-One commit at a time.
-
-Thanks for visiting.
-
-Let's build 🚀
+One note. One lab. One project. One commit at a time.
 
 ---
 
 <p align="center">
-  <i>⭐ If you're on a similar path, feel free to fork this and build alongside.</i>
+<i>"⭐️ Small progress every day eventually becomes something remarkable."</i>
 </p>
-
-### Author : Angad Singh Maan
 
 ---
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angad%20Singh%20Maan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angad-singh-maan)
-
-[![GitHub](https://img.shields.io/badge/GitHub-angadmaan-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angadmaan)
-
+**Author - Angad Singh Maan**  
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angad%20Singh%20Maan-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/angad-singh-maan) 
+[![GitHub](https://img.shields.io/badge/GitHub-angadmaan-181717?style=flat-square&logo=github)](https://github.com/angadmaan)
