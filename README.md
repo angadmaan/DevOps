@@ -1,4 +1,4 @@
-# 🛡️ Becoming a DevSecOps Engineer
+# 🛡️ Becoming a DevOps Engineer
 
 > *Every expert was once a beginner. This repository is my proof of that.*
 
@@ -10,7 +10,7 @@ I'm a Computer Science student from India.
 
 This repository is not a collection of random notes.
 
-It's my complete journey towards becoming a **DevSecOps Engineer**.
+It's my complete journey towards becoming a **DevOps Engineer**.
 
 When I started engineering, I honestly had no clear direction.
 
@@ -64,7 +64,7 @@ If someone visits this repository after a few years, I want them to see how some
 
 # 🎯 My Goal
 
-Become a professional **Cloud Security / DevSecOps Engineer** by mastering:
+Become a professional **Cloud Security / DevOps Engineer** by mastering:
 
 - Linux
 - Networking
@@ -101,7 +101,7 @@ Detailed notes written in simple language.
 - Docker
 - Kubernetes
 - Terraform
-- DevSecOps
+- DevOps
 - Cloud Security
 - IAM
 - SIEM
@@ -185,7 +185,7 @@ So I follow a simple rule:
 
 # 🚀 Current Focus
 
-- DevSecOps
+- DevOps
 - Cloud Security
 - AWS
 - Docker
@@ -243,6 +243,20 @@ One commit at a time.
 
 Thanks for visiting.
 
-Let's build.
+Let's build 🚀
 
-🚀
+---
+
+<p align="center">
+  <i>⭐ If you're on a similar path, feel free to fork this and build alongside.</i>
+</p>
+
+### Author : Angad Singh Maan
+
+---
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angad%20Singh%20Maan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angad-singh-maan)
+
+[![GitHub](https://img.shields.io/badge/GitHub-angadmaan-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angadmaan)
+
