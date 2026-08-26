@@ -40,35 +40,48 @@ My goal isn't just to pass the certification—it's to build a solid understandi
 
 | Module | Status |
 |----------|--------|
-| Module 1 |✅ Completed |
-| Module 2 |✅ Completed |
-| Module 3 |✅ Completed |
-| Module 4 |✅ Completed |
-| Module 5 |✅ Completed |
-| Module 6 |✅ Completed |
+| Module 1 – Introduction to the Cloud |✅ Completed |
+| Module 2 – Compute in the Cloud |✅ Completed |
+| Module 3 – Exploring Compute Services |✅ Completed |
+| Module 4 – Going Global |✅ Completed |
+| Module 5 – Networking |✅ Completed |
+| Module 6 – Storage |✅ Completed |
+| Module 7 – Databases | ⏳ Not Started |
+| Module 8 – AI, ML and Data Analytics |✅ Completed |
+| Module 9 – Security |✅ Completed |
+| Module 10 – Monitoring, Compliance and Governance in the AWS Cloud |✅ Completed |
+| Module 11 – Pricing and Support |✅ Completed |
+| Module 12 – Migrating to the AWS Cloud |✅ Completed |
+| Module 13 – Well-Architected Solutions |✅ Completed |
 
 ---
 
 ## 📁 Repository Structure
 
-```
+```text
 AWS-Certified-Cloud-Practitioner/
 │
 ├── README.md
 │
-├── Module-01/
-├── Module-02/
-├── Module-03/
-├── Module-04/
-├── Module-05/
-├── Module-06/
+├── Module-01-Introduction-to-the-Cloud/
+├── Module-02-Compute-in-the-Cloud/
+├── Module-03-Exploring-Compute-Services/
+├── Module-04-Going-Global/
+├── Module-05-Networking/
+├── Module-06-Storage/
+├── Module-07-Databases/
+├── Module-08-AI-ML-and-Data-Analytics/
+├── Module-09-Security/
+├── Module-10-Monitoring-Compliance-and-Governance/
+├── Module-11-Pricing-and-Support/
+├── Module-12-Migrating-to-the-AWS-Cloud/
+├── Module-13-Well-Architected-Solutions/
 │
 ├── Certificate/
 ├── Labs/
 ├── Practice-Questions/
 └── Resources/
 ```
-
 ---
 
 ## 📝 What You'll Find Here
@@ -114,3 +127,12 @@ Learning is always better when it's shared.
 ---
 
 ⭐ **"Learn → Practice → Document → Repeat."**
+
+---
+
+## Author - Angad Singh Maan
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angad-singh-maan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angadmaan)
