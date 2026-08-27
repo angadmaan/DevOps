@@ -46,7 +46,7 @@ My goal isn't just to pass the certification—it's to build a solid understandi
 | Module 4 – Going Global |✅ Completed |
 | Module 5 – Networking |✅ Completed |
 | Module 6 – Storage |✅ Completed |
-| Module 7 – Databases | ⏳ Not Started |
+| Module 7 – Databases |✅ Completed |
 | Module 8 – AI, ML and Data Analytics |✅ Completed |
 | Module 9 – Security |✅ Completed |
 | Module 10 – Monitoring, Compliance and Governance in the AWS Cloud |✅ Completed |
