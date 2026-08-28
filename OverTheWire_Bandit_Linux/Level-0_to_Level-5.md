@@ -26,7 +26,7 @@ Using the password obtained from the previous level, I logged into the next Band
 
 ## Objective
 
-This level introduced working with filenames that contain spaces. After listing the directory contents, I learned that normal commands fail when spaces are interpreted as separate arguments. I solved the challenge by correctly referencing the filename using quotation marks or escaped spaces before reading it with `cat`. This level strengthened my understanding of handling special filenames within Linux.
+This level introduced working with filenames that contain spaces(hidden file in the inhere directory). After listing the directory contents, I learned that normal commands fail when spaces are interpreted as separate arguments. I solved the challenge by correctly referencing the filename using quotation marks or escaped spaces before reading it with `cat`. This level strengthened my understanding of handling special filenames within Linux.
 
 #### Password
 
