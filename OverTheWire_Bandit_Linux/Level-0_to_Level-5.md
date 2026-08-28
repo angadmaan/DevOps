@@ -42,7 +42,7 @@ In this level, I explored the use of `ls -la` to display hidden files and direct
 
 #### Password
 
-`<Password for Level 5>`
+`aeg23bgf2LFryk#######clcL7tG`
 
 ---
 
