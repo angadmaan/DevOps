@@ -234,20 +234,3 @@ Examples:
 
 These networks offer internet connectivity for smartphones and mobile devices almost anywhere with cellular coverage.
 
----
-
-# 📊 Key Takeaways
-
-- Networks rely on clients and servers to exchange information.
-- Peer-to-Peer networks allow devices to communicate directly.
-- Routers connect different networks, while switches connect devices within the same network.
-- Wireless Access Points provide Wi-Fi connectivity.
-- Firewalls help protect networks from unauthorized access.
-- ISPs connect homes and businesses to the global internet using DSL, Cable, Fiber, Satellite, or Cellular technologies.
-- Understanding networking devices is essential for building a strong foundation in networking and cybersecurity.
-
----
-
-# 📝 Module Summary
-
-In this module, I learned how computers communicate using the client-server model, the differences between client-server and peer-to-peer networks, and the purpose of common networking devices such as routers, switches, firewalls, and wireless access points. I also explored the various internet connectivity options provided by ISPs and understood how different technologies connect users to the global internet. These concepts form the foundation for more advanced networking topics such as IP addressing, routing, switching, and network security.
