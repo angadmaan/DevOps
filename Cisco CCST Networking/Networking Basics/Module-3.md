@@ -196,20 +196,3 @@ Emerging technologies include:
 
 These advancements will enable faster communication, lower latency, and support for billions of connected devices worldwide.
 
----
-
-# 📊 Key Takeaways
-
-- Wireless networks use radio waves instead of physical cables.
-- Wi-Fi provides fast local wireless connectivity through Wireless Access Points.
-- Cellular networks provide internet access over large geographical areas.
-- Bluetooth enables short-range communication between nearby devices.
-- Wireless security is essential to protect networks from unauthorized access.
-- Mobile hotspots allow devices to share internet connections with others.
-- Advances in wireless technology continue to improve speed, reliability, and connectivity.
-
----
-
-# 📝 Module Summary
-
-In this module, I learned how wireless networks enable devices to communicate without physical cables using technologies such as Wi-Fi, Bluetooth, and cellular networks. I explored the role of Wireless Access Points, understood how smartphones and other mobile devices maintain internet connectivity, and learned the importance of securing wireless communications through encryption and strong authentication. These concepts provide the foundation for understanding modern networking environments where mobility, flexibility, and secure wireless communication are essential.
