@@ -29,23 +29,23 @@ Start learning the basics of computer networking and discover how networks opera
 
 ---
 
-### **Course 2: Network Addressing and Basic Troubleshooting** ⏳ Start
-**Beginner | Self-paced | 4-5 weeks**
-
-Take your networking foundation deeper and explore the next steps towards a career in tech.
-
-**Topics:** IPv4/IPv6 addressing | Subnetting | Network configuration | Basic troubleshooting | Routing | Network testing utilities
-
-**Prerequisites:** Networking Basics
-
----
-
-### **Course 3: Networking Devices and Initial Configuration** ⏳ Start
+### **Course 2: Networking Devices and Initial Configuration** ⏳ Start
 **Beginner | Self-paced | 4-5 weeks**
 
 Continue learning networking essentials and build your foundational skills.
 
 **Topics:** Network device types (switches, routers) | Hardware and ports | CLI basics | Initial configuration | Device management | Hands-on Packet Tracer labs
+
+**Prerequisites:** Course 1
+
+---
+
+### **Course 3: Network Addressing and Basic Troubleshooting** ⏳ Start
+**Beginner | Self-paced | 4-5 weeks**
+
+Take your networking foundation deeper and explore the next steps towards a career in tech.
+
+**Topics:** IPv4/IPv6 addressing | Subnetting | Network configuration | Basic troubleshooting | Routing | Network testing utilities
 
 **Prerequisites:** Course 2
 
@@ -66,8 +66,8 @@ Develop your network troubleshooting and user access control skills to begin you
 
 ```
 Week 1-4:   Course 1 - Networking Basics
-Week 5-9:   Course 2 - Network Addressing & Troubleshooting
-Week 10-14: Course 3 - Networking Devices & Configuration
+Week 5-9:   Course 2 - Networking Devices and Initial Configuration
+Week 10-14: Course 3 - Network Addressing and Basic Troubleshooting
 Week 15-19: Course 4 - Network Support & Security
 
 Total: ~19 weeks (~5 months)
